@@ -15,8 +15,9 @@ img {
 }
 
 p {
-    color: crimson;
+    color: rgb(254, 251, 96);
     text-align: center;
+    text-size-adjust: 1000;
 }
 
 h2 { 
@@ -37,8 +38,7 @@ h3 {
 .pic1 { 
     border-style: groove;
     align-items: center;
-    
-}
+    }
 
 .divclass1 {
     text-align: center;

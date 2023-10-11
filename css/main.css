@@ -104,3 +104,14 @@ form {
     color: white;
   }
   
+  @media all and (max-with:500px) {
+    Body { 
+      color:blue
+    }
+  }
+
+  @media (Orientation:portrait) {
+    .subtitle {
+      color:aqua
+    }
+  }

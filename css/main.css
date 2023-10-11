@@ -103,8 +103,8 @@ form {
     background-color: #04AA6D;
     color: white;
   }
-  
-  @media all and (max-with:500px) {
+
+ @media all and (max-with:500px) {
     Body { 
       color:blue
     }
